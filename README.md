@@ -1,7 +1,7 @@
 # aluraplus
 exemplo  de site alura plus
-## Aprendendo html5 e css3
 
+## Tecnologias Aplicadas
 - HTML5
 - CSS3
 
