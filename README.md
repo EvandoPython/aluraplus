@@ -12,7 +12,8 @@ exemplo  de site alura plus
 ## Autor:
 Evando Silva
 
-Link: 
+Links: 
+
 https://evandopython.github.io/aluraplus/
 
 https://github.com/EvandoPython/aluraplus/blob/main/LICENSE
