@@ -13,3 +13,4 @@ Link: https://evandopython.github.io/aluraplus/
 Evando Silva
 
 https://github.com/EvandoPython/aluraplus/blob/main/LICENSE
+https://aluraplus-rho-vert.vercel.app
